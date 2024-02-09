@@ -20,7 +20,6 @@ public class Main {
 
 
 
-
         Student student1 =  new Student();
         student1.name = "Beknazar";
         student1.age = 16;
@@ -60,6 +59,6 @@ public class Main {
         System.out.println("Java cout :  "+countJava);
         System.out.println("JS count :  "+ countS);
 
-        System.out.println("Jashtarynyn arifmeticalyk orto sany : "+(student1.age+student2.age+student3.age+student4.age+ student5.age)/5);
+        System.out.println("Jashtarynyn arifmeticalyk orto sany: "+ (student1.age+student2.age+student3.age+student4.age+ student5.age)/5);
     }
 }
