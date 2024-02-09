@@ -18,7 +18,7 @@ public class Main {
 //        System.out.println("Date of birth           Document # ");
 //        System.out.println(passport.dateOfBirth +"              "+passport.id);
 
-
+        System.out.println("Task 2 ");
 
         Student student1 =  new Student();
         student1.name = "Beknazar";
